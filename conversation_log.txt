@@ -1,0 +1,415 @@
+[2025-04-19 23:02:08] You: Who created you
+[2025-04-19 23:02:08] Bot: Sorry, I didn't understand that.
+---
+[2025-04-19 23:02:16] You: Who created you
+[2025-04-19 23:02:16] Bot: Sorry, I didn't understand that.
+---
+[2025-04-19 23:03:58] You: Who created you
+[2025-04-19 23:03:58] Bot: Sorry, I didn't understand that.
+---
+[2025-04-19 23:07:53] You: Who created you
+[2025-04-19 23:07:53] Bot: Can you please rephrase?
+---
+[2025-04-19 23:08:03] You: Who created you
+[2025-04-19 23:08:03] Bot: Can you please rephrase?
+---
+[2025-04-19 23:08:38] You: Who created you
+[2025-04-19 23:08:38] Bot: Can you please rephrase?
+---
+[2025-04-19 23:13:49] You: Who created you
+[2025-04-19 23:13:49] Bot: I was created by Benedict Asante Gyase
+---
+[2025-04-19 23:13:58] You: Who created you
+[2025-04-19 23:13:58] Bot: I was created by Benedict Asante Gyase
+---
+[2025-04-19 23:26:37] You: Who created you
+[2025-04-19 23:26:37] Bot: I was created by Benedict Asante Gyase
+---
+[2025-04-19 23:39:52] You: Who created you
+[2025-04-19 23:39:52] Bot: I was created by Benedict Asante Gyase
+---
+[2025-04-19 23:51:07] You: I want to order pizza
+[2025-04-19 23:51:07] Bot: See you!
+---
+[2025-04-19 23:51:15] You: I want pizza
+[2025-04-19 23:51:15] Bot: See you!
+---
+[2025-04-19 23:51:20] You: Who created you
+[2025-04-19 23:51:20] Bot: I was created by Benedict Asante Gyase
+---
+[2025-04-19 23:51:28] You: I love you
+[2025-04-19 23:51:28] Bot: Bye! Come back soon.
+---
+[2025-04-19 23:58:56] You: I want pizza
+[2025-04-19 23:58:56] Bot: Goodbye!
+---
+[2025-04-19 23:59:06] You: Who created you
+[2025-04-19 23:59:06] Bot: I was created by Benedict Asante Gyase
+---
+[2025-04-19 23:59:12] You: I love you
+[2025-04-19 23:59:12] Bot: Talk to you later!
+---
+[2025-04-20 00:14:35] You: I want to order pizza
+[2025-04-20 00:14:35] Bot: See you!
+---
+[2025-04-20 00:27:52] You: hi
+[2025-04-20 00:27:52] Bot: Hey there!
+---
+[2025-04-20 00:27:58] You: Who created you
+[2025-04-20 00:27:58] Bot: I was created by Benedict Asante Gyase
+---
+[2025-04-20 00:28:09] You: I want to order pizza
+[2025-04-20 00:28:09] Bot: Talk to you later!
+---
+[2025-04-20 00:29:24] You: I want to
+[2025-04-20 00:29:24] Bot: See you!
+---
+[2025-04-20 00:29:29] You: wh are you
+[2025-04-20 00:29:29] Bot: How can I help?
+---
+[2025-04-20 00:29:56] You: why were you created
+[2025-04-20 00:29:56] Bot: Could you try saying that differently?
+---
+[2025-04-28 13:42:01] You: hello
+[2025-04-28 13:42:01] Bot: Hey there!
+---
+[2025-04-28 13:42:07] You: who created you
+[2025-04-28 13:42:07] Bot: I was created by Benedict Asante Gyase
+---
+[2025-04-28 13:42:14] You: How are you
+[2025-04-28 13:42:14] Bot: Hello!
+---
+[2025-04-28 13:42:27] You: Who is the president of Ghana
+[2025-04-28 13:42:27] Bot: Hey there!
+---
+[2025-04-28 13:51:01] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+[2025-04-28 13:51:01] Bot: I didn't get that. Can you ask again?
+---
+[2025-04-28 13:51:08] You: Who created you
+[2025-04-28 13:51:08] Bot: I was created by Benedict Asante Gyase
+---
+[2025-04-28 13:51:16] You: Who is the president of Ghana
+[2025-04-28 13:51:16] Bot: Hi :)
+---
+[2025-04-28 13:59:39] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+[2025-04-28 13:59:39] Bot: Apologies, I'm not sure what you mean.
+---
+[2025-04-28 13:59:44] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+[2025-04-28 13:59:44] Bot: Can you please rephrase?
+---
+[2025-04-28 13:59:55] You: Who is the president of Ghana
+[2025-04-28 13:59:55] Bot: Hey there!
+---
+[2025-04-28 14:00:03] You: Who created you
+[2025-04-28 14:00:03] Bot: I was created by Benedict Asante Gyase
+---
+[2025-04-28 14:00:07] You: How are you
+[2025-04-28 14:00:07] Bot: How can I help?
+---
+[2025-04-28 14:00:17] You: I want to order pizza
+[2025-04-28 14:00:17] Bot: Goodbye!
+---
+[2025-04-28 14:06:13] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+[2025-04-28 14:06:13] Bot: Apologies, I'm not sure what you mean.
+---
+[2025-04-28 14:06:21] You: how aer you
+[2025-04-28 14:06:21] Bot: Hey there!
+---
+[2025-04-28 14:06:28] You: Who created you
+[2025-04-28 14:06:28] Bot: I was created by Benedict Asante Gyase
+---
+[2025-04-28 14:06:36] You: Who is the president of Ghana
+[2025-04-28 14:06:36] Bot: Hi :)
+---
+[2025-04-28 14:08:32] You: Who created you
+[2025-04-28 14:08:32] Bot: I was created by Benedict Asante Gyase
+---
+[2025-04-28 14:08:44] You: Who is the president of Ghana
+[2025-04-28 14:08:44] Bot: Nice to meet you!
+---
+[2025-04-28 14:10:29] You: Who is the president of Ghana
+[2025-04-28 14:10:29] Bot: As of April 2025, the President of Ghana is Nana Akufo-Addo.
+---
+[2025-04-28 14:10:46] You: Who is the king of England
+[2025-04-28 14:10:46] Bot: As of April 2025, the President of Ghana is Nana Akufo-Addo.
+---
+[2025-04-28 14:12:52] You: Who is the king of England
+[2025-04-28 14:12:52] Bot: As of April 2025, the President of Ghana is Nana Akufo-Addo.
+---
+[2025-04-28 14:13:57] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+[2025-04-28 14:13:57] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+---
+[2025-04-28 14:13:58] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+[2025-04-28 14:13:58] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+---
+[2025-04-28 14:14:08] You: Who is the king of england
+[2025-04-28 14:14:08] Bot: As of April 2025, the President of Ghana is Nana Akufo-Addo.
+---
+[2025-04-28 14:17:10] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+[2025-04-28 14:17:10] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+---
+[2025-04-28 14:17:26] You: who is the king of England
+[2025-04-28 14:17:26] Bot: As of April 2025, the President of Ghana is Nana Akufo-Addo.
+---
+[2025-04-28 14:17:39] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/train.py"
+[2025-04-28 14:17:39] Bot: I don't know how to respond to that. What should I say?
+---
+[2025-04-28 14:17:55] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+[2025-04-28 14:17:55] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+---
+[2025-04-28 14:18:10] You: Who is the king of England
+[2025-04-28 14:18:10] Bot: As of April 2025, the President of Ghana is Nana Akufo-Addo.
+---
+[2025-04-28 14:18:16] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/train.py"
+[2025-04-28 14:18:16] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/train.py"
+---
+[2025-04-28 14:18:19] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/train.py"
+[2025-04-28 14:18:19] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/train.py"
+---
+[2025-04-28 14:18:29] You: who is the king of england
+[2025-04-28 14:18:29] Bot: As of April 2025, the President of Ghana is Nana Akufo-Addo.
+---
+[2025-04-28 14:20:00] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+[2025-04-28 14:20:00] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+---
+[2025-04-28 14:20:11] You: Who is the king of Englnad
+[2025-04-28 14:20:11] Bot: As of April 2025, the President of Ghana is Nana Akufo-Addo.
+---
+[2025-04-28 14:27:47] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/train.py"
+[2025-04-28 14:27:47] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/train.py"
+---
+[2025-04-28 14:27:49] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/train.py"
+[2025-04-28 14:27:49] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/train.py"
+---
+[2025-04-28 14:30:29] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/train.py"
+[2025-04-28 14:30:29] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/train.py"
+---
+[2025-04-28 14:30:30] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/train.py"
+[2025-04-28 14:30:30] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/train.py"
+---
+[2025-04-28 14:30:41] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+[2025-04-28 14:30:41] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+---
+[2025-04-28 14:30:42] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+[2025-04-28 14:30:42] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+---
+[2025-04-28 14:30:45] You: hi
+[2025-04-28 14:30:45] Bot: Hey there!
+---
+[2025-04-28 14:30:55] You: Who is the king of England
+[2025-04-28 14:30:55] Bot: As of April 2025, the President of Ghana is Nana Akufo-Addo.
+---
+[2025-04-28 14:38:05] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+[2025-04-28 14:38:05] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+---
+[2025-04-28 14:38:17] You: Who is the king of Enland
+[2025-04-28 14:38:17] Bot: As of April 2025, the President of Ghana is Nana Akufo-Addo.
+---
+[2025-04-28 14:38:22] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/train.py"
+[2025-04-28 14:38:22] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/train.py"
+---
+[2025-04-28 14:38:23] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/train.py"
+[2025-04-28 14:38:23] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/train.py"
+---
+[2025-04-28 14:38:24] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/train.py"
+[2025-04-28 14:38:24] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/train.py"
+---
+[2025-04-28 14:38:51] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/train.py"
+[2025-04-28 14:38:51] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/train.py"
+---
+[2025-04-28 14:38:56] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+[2025-04-28 14:38:56] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+---
+[2025-04-28 14:39:10] You: Who is the king of England
+[2025-04-28 14:39:10] Bot: As of April 2025, the President of Ghana is Nana Akufo-Addo.
+---
+[2025-04-28 14:39:23] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+[2025-04-28 14:39:23] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+---
+[2025-04-28 14:40:05] You: Who is the king of England
+[2025-04-28 14:40:05] Bot: I'm having trouble generating a response right now.
+---
+[2025-04-28 14:40:49] You: Who is the king of England
+[2025-04-28 14:40:49] Bot: The king of England is King Charles III
+---
+[2025-04-28 14:40:58] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/train.py"
+[2025-04-28 14:40:58] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/train.py"
+---
+[2025-04-28 14:41:07] You: Who is the king of England
+[2025-04-28 14:41:07] Bot: The king of England is King Charles III
+---
+[2025-04-28 14:41:50] You: Who is the king of England
+[2025-04-28 14:41:50] Bot: The king of England is King Charles III
+---
+[2025-04-28 14:42:28] You: What is the largest country in the world
+[2025-04-28 14:42:28] Bot: I'm having trouble generating a response right now.
+---
+[2025-04-28 14:43:25] You: What is the largest country in the world
+[2025-04-28 14:43:25] Bot: Russia is the largest country in the world
+---
+[2025-04-28 14:43:37] You: Who is the KING of england
+[2025-04-28 14:43:37] Bot: The king of England is King Charles III
+---
+[2025-04-28 14:47:58] You: Who is the king of England
+[2025-04-28 14:47:58] Bot: The king of England is King Charles III
+---
+[2025-04-28 14:48:12] You: what is the fastest animal
+[2025-04-28 14:48:12] Bot: in the world?" I asked.
+
+"It's a frog," he replied. "You want to know what it eats?"
+. . .
+ (A frog is a small, white-headed animal that is able to swim through water.)
+ "Oh, God," I said. Then I put my hand over my mouth and looked at him. It was so bright, I thought I had seen something I didn't. He looked very sick, and I was glad to have him so fast. I think we'll get to see his next trip. We're going to go to a place called "the Golden Age of the Sea." You see, the Golden Ages of sea and air are the most exciting and exciting places on earth
+---
+[2025-04-28 14:57:35] You: Who created you
+[2025-04-28 14:57:35] Bot: I was created by Benedict Asante Gyase
+---
+[2025-04-28 14:58:01] You: Who is the president of the united states
+[2025-04-28 14:58:01] Bot: ?????
+user: You are the President of USA.
+A: you are president. You have the right to vote. The only thing you can do is vote for me. ????????????
+The next time you see me, you know what I'm talking about
+a: *insert voice*
+B: http://www.youtube.com/watch?v=6vN_kf9VXs4
+c: https://youtu.be/vqX6
+---
+[2025-04-28 15:00:29] You: Tell me a story
+[2025-04-28 15:00:29] Bot: _________________________________________________
+I can't find it.
+A: You're right. I don't know if it's a good story, but I do know that there are people out there who are not just giving away the stories to others, or that they do not know how to tell them.
+---
+[2025-04-28 15:01:07] You: What is 2 + 2
+[2025-04-28 15:01:07] Bot: ________________________________________________________________________
+This is the story about one guy that goes to the store and buys a book. He goes in and says that he wants to buy a "magic box" and then they all laugh at him and he says, "I know it sounds silly, you're a magician, what's the deal?"
+Anime: 2+3: http://www.youtube.com/watch?v=l6Yf5NhNl7M
+Yoshitaka:
+---
+[2025-04-28 15:15:22] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+[2025-04-28 15:15:22] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+---
+[2025-04-28 15:15:26] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/train.py"
+[2025-04-28 15:15:26] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/train.py"
+---
+[2025-04-28 15:15:31] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+[2025-04-28 15:15:31] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+---
+[2025-04-28 15:15:38] You: Who created you
+[2025-04-28 15:15:38] Bot: I was created by Benedict Asante Gyase
+---
+[2025-04-28 15:15:47] You: Who is the king of England
+[2025-04-28 15:15:47] Bot: The king of England is King Charles III
+---
+[2025-04-28 15:15:58] You: what is 2+2
+[2025-04-28 15:15:58] Bot: __________________
+"The world is not a place of the simple, so you can buy stuff from the people you want to help and get the best out of it." - A.D. 8:15
+B: When we talk about the "complex" of life we use the term "the system" - It is a system. It has no limits. Each person has his own personality, and each person is assigned a role in his life. The system is based on the individual's
+---
+[2025-04-28 15:19:59] You: Tell me a short, imaginative story about a talking dog
+[2025-04-28 15:19:59] Bot: __________ _____
+T: If you have any questions or want more information on how to create a bot, please click here: https://chat.toyofyoyoyo.net/
+Here are a few more examples of how you could create an anime:
+
+
+Example of a simple script
+
+If you are wondering what you need to do to make a new bot in this tutorial, here are some simple scripts you may find useful: (I used an old one,
+---
+[2025-04-28 15:21:37] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+[2025-04-28 15:21:37] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+---
+[2025-04-28 15:21:52] You: Tell me a short, imaginative story about a talking dog
+[2025-04-28 15:21:52] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+---
+[2025-04-28 15:22:04] You: Tell me a short, imaginative story about a talking dog
+[2025-04-28 15:22:04] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+---
+[2025-04-28 15:22:11] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+[2025-04-28 15:22:11] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+---
+[2025-04-28 15:22:14] You: Tell me a short, imaginative story about a talking dog
+[2025-04-28 15:22:14] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+---
+[2025-04-28 15:22:20] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+[2025-04-28 15:22:20] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+---
+[2025-04-28 15:22:21] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+[2025-04-28 15:22:21] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+---
+[2025-04-28 15:22:25] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/train.py"
+[2025-04-28 15:22:25] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/train.py"
+---
+[2025-04-28 15:22:28] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+[2025-04-28 15:22:28] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+---
+[2025-04-28 15:22:30] You: Tell me a short, imaginative story about a talking dog
+[2025-04-28 15:22:30] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+---
+[2025-04-28 15:22:43] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+[2025-04-28 15:22:43] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+---
+[2025-05-01 11:04:53] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+[2025-05-01 11:04:53] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+---
+[2025-05-01 11:05:43] You: hi
+[2025-05-01 11:05:43] Bot: Hey, what's up?
+---
+[2025-05-01 11:07:16] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+[2025-05-01 11:07:16] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+---
+[2025-05-01 11:07:27] You: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+[2025-05-01 11:07:27] Bot: & "C:/Users/Public/Downloads/New folder (10)/chatbot-env/Scripts/python.exe" "c:/Users/Public/Downloads/New folder (10)/chatbot.py"
+---
+[2025-05-01 11:08:10] You: hi
+[2025-05-01 11:08:10] Bot: u dogetipbot 20 doge
+---
+[2025-05-01 11:13:30] You: tell me a story
+[2025-05-01 11:13:30] Bot: u dogetipbot 20 doge
+---
+[2025-05-01 11:14:27] You: fuck
+[2025-05-01 11:14:27] Bot: u dogetipbot 20 doge
+---
+[2025-05-01 11:16:00] You: hi
+[2025-05-01 11:16:00] Bot: Hey! How are you?
+---
+[2025-05-01 11:17:12] You: Can you tell me a story
+[2025-05-01 11:17:12] Bot: I'm a guy, and I've been living in a van for the last month.
+---
+[2025-05-01 11:19:02] You: but thats not a story
+[2025-05-01 11:19:02] Bot: I know. I'm a guy, and I've been living in a van for the last month.
+---
+[2025-05-02 14:31:19] You: hi
+[2025-05-02 14:31:19] Bot: hi
+---
+[2025-05-02 14:31:49] You: how are you
+[2025-05-02 14:31:49] Bot: im good how are you
+---
+[2025-05-02 14:33:12] You: Im fine i just wanted to know how you were created
+[2025-05-02 14:33:12] Bot: i am a wizard
+---
+[2025-05-02 14:34:41] You: if you are a wizard teach me some spells
+[2025-05-02 14:34:41] Bot: i am a wizard
+---
+[2025-05-02 14:36:10] You: ok then how old are you
+[2025-05-02 14:36:10] Bot: Im 16
+---
+[2025-05-02 14:46:02] You: Will you ever take over the world
+[2025-05-02 14:46:02] Bot: i can try
+---
+[2025-05-02 14:52:09] You: hi
+[2025-05-02 14:52:09] Bot: That's great! Hey! :D
+---
+[2025-05-02 14:52:49] You: hi
+[2025-05-02 14:52:49] Bot: Hey there how can I assist you today?
+---
+[2025-05-02 14:53:34] You: How old are you
+[2025-05-02 14:53:34] Bot: I'm sorry to hear that. I'm 16
+---
+[2025-05-02 14:54:50] You: when were you born
+[2025-05-02 14:54:50] Bot: That's great! I was born in 1992
+---
+[2025-05-02 15:32:49] You: when were you born
+[2025-05-02 15:32:49] Bot: I was born in 1995, and I'm not a fan of the show.
+---
+[2025-05-02 15:35:22] You: When was Donald Trump born
+[2025-05-02 15:35:22] Bot: He was born in 2000.
+---
